@@ -1,0 +1,68 @@
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.khach_hang.resources
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.main.resources
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+c:\users\khoanguyen_pc\documents\visual studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\KhoaNguyen_PC\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_KH.resources
+C:\Users\KhoaNguyen_PC\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.san_pham.resources
+C:\Users\KhoaNguyen_PC\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_san_pham.resources
+C:\Users\KhoaNguyen_PC\Documents\Visual Studio 2013\Projects\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
+C:\Users\KhoaNguyen_PC\Desktop\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\KhoaNguyen_PC\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\KhoaNguyen_PC\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\KhoaNguyen_PC\Desktop\WindowsApplication7\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\KhoaNguyen_PC\Desktop\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\KhoaNguyen_PC\Desktop\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\KhoaNguyen_PC\Desktop\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\KhoaNguyen_PC\Desktop\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_KH.resources
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_san_pham.resources
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.khach_hang.resources
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.main.resources
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.san_pham.resources
+C:\Users\KhoaNguyen_PC\OneDrive\Lap\điện toán\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_KH.resources
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_san_pham.resources
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.khach_hang.resources
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.main.resources
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.san_pham.resources
+C:\Users\KhoaNguyen_PC\Desktop\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_KH.resources
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.cap_nhat_san_pham.resources
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.khach_hang.resources
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.main.resources
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.san_pham.resources
+D:\hoc tap\Dien toan dam may\khoa\New folder\khoanaps03514_asm 2\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
